@@ -1,0 +1,13 @@
+.seccion-presentacion{
+    background-image: url('../../../public/9-ways-to-improve-UI-in-Web-Development_ml_resize_x2.jpg');
+    width: 100vw;
+    height: 80vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.subtitulo-presentacion{
+    margin-top: 4em;
+    margin-left: -8em;
+}

@@ -1,0 +1,41 @@
+.menulist{
+    position: absolute;
+    right: 25%;
+    display: flex;
+    gap: 25px;
+    margin-top: 0.8%;
+    color: white;
+}
+
+.menulist__link{
+    color: white;
+    transition: all .3s;
+}
+
+.menulist__link:hover{
+    color: #96187c;
+}
+
+.active{
+    color: #96187c;
+}
+
+.nav-btn {
+	padding: 5px;
+	cursor: pointer;
+	background: transparent;
+    opacity: 0;
+	border: none;
+	outline: none;
+	color: #eee;
+	font-size: 1.8rem
+}
+
+.cart-icon{
+    position: absolute;
+    top: 5%;
+    font-size: 35px;
+    color: white;
+    right: 6em;
+}
+
