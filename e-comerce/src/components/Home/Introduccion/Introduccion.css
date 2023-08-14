@@ -1,0 +1,19 @@
+.div-container-p {
+    display: grid;
+    place-items: center;
+    width: 400px;
+    height: 100%;
+    font-size: 18px;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 20px;
+    background-color: rgba(189, 189, 189, 0.801);
+}
+
+.img-code-introduccion {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    left: 60%;
+    top: -30em;
+}
